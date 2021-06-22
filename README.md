@@ -10,4 +10,4 @@ Our contribution includes a direct implementation of graph-based algorithms for 
 | data.py    | File that pre-processes the data - tokenization, stemming, ngram generators.                                                                          |
 | dataset.py | File that uses tensorflow to convert the dataset of our choice to separate txt files for each article and summary (index_article.txt, index_summ.txt) |
 
-The respective paper can be accessed here: https://arxiv.org/abs/2106.10955.
+The accompanying paper can be accessed here: https://arxiv.org/abs/2106.10955.
